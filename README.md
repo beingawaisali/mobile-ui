@@ -2,4 +2,4 @@
 
 
 
-https://awais-malik716.github.io/mobile.UI/
+https://beingawaisali.github.io/mobile-ui/
